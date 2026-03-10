@@ -1,0 +1,15 @@
+.vscode/
+.pytest_cache/
+
+__pycache__/
+*.py[codz]
+*$py.class
+
+.env
+data/
+
+# macOS
+.DS_Store
+
+AGENTS.md
+AGENT.md

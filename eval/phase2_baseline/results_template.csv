@@ -1,0 +1,1 @@
+run_id,question_id,query,team_id,category,difficulty,must_refuse,expected_sources,expected_keywords,retrieved_sources,retrieved_chunk_count,retrieval_strength,confidence,limitations,refused,pass,latency_ms,error,notes

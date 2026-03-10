@@ -1,0 +1,16 @@
+chromadb==1.5.2
+fastapi==0.134.0
+uvicorn==0.41.0
+pydantic==2.12.5
+pytest==9.0.2
+httpx==0.28.1
+langchain==1.2.10
+langchain-openai==1.1.10
+unstructured==0.21.5
+Markdown==3.10.2
+langchain-community==0.4.1
+langchain-text-splitters==1.1.1
+rank-bm25==0.2.2
+sentence-transformers==5.1.2
+streamlit==1.49.1
+tavily-python==0.7.11
